@@ -7,6 +7,7 @@ global.owner = [
   ['62895338690940', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
+global.web = 'https://IbnuBot-apii.herokuapp.com'
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
